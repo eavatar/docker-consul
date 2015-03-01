@@ -1,3 +1,3 @@
 Consul docker image
 =====================
-Based on progrium/docker-consul without UI and Docker tool.
+Based on progrium/docker-consul but without UI and Docker tool.
