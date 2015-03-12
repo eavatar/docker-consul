@@ -1,6 +1,6 @@
 GROUP=eavatar
 NAME=consul
-VERSION=0.1.1
+VERSION=0.1.3
 
 
 all: build tag
